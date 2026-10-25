@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm [Jahanzaib Shafiq](YOUR_LINKEDIN_URL), a mobile app developer from Pakistan.
+I'm [Jahanzaib Shafiq](https://www.linkedin.com/in/jahanzaibshafiq/), a mobile app developer from Pakistan.
 
 I build mobile applications that turn ideas into practical, real-world solutions.
 
@@ -19,4 +19,4 @@ My goal is to keep learning, build better products, and grow as a developer.
 - 🏋️ Hobbies: coding, gym, and exploring technology.
 
 ### Find me here:
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/jahanzaibshafiq/) · [Portfolio](https://www.j-dev.me/)
